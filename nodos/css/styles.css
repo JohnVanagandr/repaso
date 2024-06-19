@@ -36,6 +36,13 @@ header{
  section{
   padding: var(--padding);
  }
+ .bg-white{
+  background: var(--white);
+  color: var(--mineshaft);
+ }
+ .color-dark{
+  color: var(--mineshaft);
+ }
  a{
   color: var(--husk);
   text-decoration: none;
